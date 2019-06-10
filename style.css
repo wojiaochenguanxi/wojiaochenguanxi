@@ -2,13 +2,10 @@ li{
 	list-style:none;
 }
 .box{
-	width:1560px;
 	height:1090px;
-	margin:0 auto;
 }
 .top{
 	background-color:#f4f4f4;
-	width:1560px;
 	height:31px;
 	border-bottom:1px solid #ececec;
 }
@@ -33,7 +30,6 @@ li{
 	top:0;
 }
 .mid{
-	width:1560px;
 	height:159px;
 	border-bottom:3px solid #e00304;
 }
